@@ -12,3 +12,6 @@ Install python-phabricator as such:
 
 `python setup.py install`
 
+### Usage
+
+Refer to the documentation at https://github.com/helgemathee/python-phabricator
