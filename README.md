@@ -34,3 +34,5 @@ with content similar to this:
     }
 }
 ```
+
+The accessible API can be inspected on your phabricator site - in the conduit application. (https://MYDOMAIN/conduit)
